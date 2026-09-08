@@ -6,7 +6,7 @@ export const profile = {
   email: 'boopathikavin20@gmail.com',
   phone: '+91 8667308424',
   github: 'https://github.com/boopathikavin20-stack',
-  linkedin: 'https://www.linkedin.com/in/boopathi-g-a84784323',
+  linkedin: 'https://www.linkedin.com/in/boopathi-g-a84784323/',
 }
 
 export const projects = [
@@ -18,7 +18,6 @@ export const projects = [
 
 export const skillGroups = [
   { label: 'Programming Languages', items: ['Python', 'Java', 'HTML', 'CSS'] },
-  { label: 'Development', items: ['Web Development'] },
   { label: 'Design', items: ['UI/UX Design', 'Figma'] },
   { label: 'Data / Analytics', items: ['Power BI', 'Data Analysis', 'Machine Learning concepts'] },
   { label: 'Tools', items: ['VS Code', 'Git', 'GitHub', 'Claude'] },
